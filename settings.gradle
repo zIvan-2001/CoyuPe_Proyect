@@ -1,0 +1,2 @@
+rootProject.name = "CoyuPe"
+include ':app'

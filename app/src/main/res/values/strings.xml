@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoyuPe</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="client_id">391551982778-kqbttmnq8tpeno7605b8r42n0tdiusgg.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
